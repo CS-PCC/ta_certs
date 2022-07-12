@@ -1,2 +1,3 @@
-# ta_certs
-TA Certifications
+# TA Certifications
+
+This repo holds the certifications of Teaching Assistant
