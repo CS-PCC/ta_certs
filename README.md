@@ -1,4 +1,4 @@
-# TA Certifications
+# Official Certification
 
 This repo holds the certifications of Teaching Assistant
 
